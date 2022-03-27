@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7f527b70-1f91-9b78-3dd2-65591d268288
 resourcetype: Document
 title: 18.357 Interfacial Phenomena, Lecture 15
 uid: 78a7b441-b805-22b2-2b93-30527db3e81f
