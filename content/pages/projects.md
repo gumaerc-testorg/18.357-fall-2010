@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section describes the required course project and the lists the
+  titles of the twenty course projects done by the students in the class, categorized
+  according to 5 themes.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 1cb4086b-8c5e-92d6-deec-31db642b59be
 ---
