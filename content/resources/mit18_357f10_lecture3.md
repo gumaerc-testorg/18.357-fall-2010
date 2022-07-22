@@ -5,6 +5,7 @@ file: /courses/18-357-interfacial-phenomena-fall-2010/b81f78e3a31d681b62fa93fff7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ' 18.357 Interfacial Phenomena, Lecture 3'
 uid: b81f78e3-a31d-681b-62fa-93fff791c2e0
 ---
 This resource contains information regarding lecture 3.
-

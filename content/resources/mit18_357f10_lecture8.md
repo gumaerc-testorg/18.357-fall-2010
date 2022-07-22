@@ -5,6 +5,7 @@ file: /courses/18-357-interfacial-phenomena-fall-2010/58223f940add94dffda4a4ae7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.357 Interfacial Phenomena, Lecture 8
 uid: 58223f94-0add-94df-fda4-a4ae7dfccaa4
 ---
 This resource contains information regarding lecture 8.
-
