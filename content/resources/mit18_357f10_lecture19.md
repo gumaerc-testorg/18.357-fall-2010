@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 19.
 file: /courses/18-357-interfacial-phenomena-fall-2010/229785489c81648500f89044a97c0e51_MIT18_357F10_Lecture19.pdf
+file_size: 193457
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
