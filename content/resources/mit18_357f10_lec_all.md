@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture notes.
 file: /courses/18-357-interfacial-phenomena-fall-2010/04759cfc15c79928ca9f72a18b3864dd_MIT18_357F10_lec_all.pdf
+file_size: 4548995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
