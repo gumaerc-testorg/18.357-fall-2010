@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 1.
-file: /ol-ocw-studio-app/courses/18-357-interfacial-phenomena-fall-2010/919802dfa7ee93551c58ffac59fbcc07_MIT18_357F10_Lecture1.pdf
+file: /courses/18-357-interfacial-phenomena-fall-2010/919802dfa7ee93551c58ffac59fbcc07_MIT18_357F10_Lecture1.pdf
 file_size: 126187
 file_type: application/pdf
 learning_resource_types:
